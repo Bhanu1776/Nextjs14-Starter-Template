@@ -1,0 +1,9 @@
+{
+  //* For eslint-airbnb
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "eslint.validate": [
+    "javascript", "typescript"
+  ],
+}
