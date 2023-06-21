@@ -1,5 +1,10 @@
 {
-  "extends": ["next/core-web-vitals", "airbnb", "airbnb-typescript"],
+  "extends": [
+    "next/core-web-vitals",
+    "airbnb",
+    "airbnb-typescript",
+    "plugin:prettier/recommended"
+  ],
   "parserOptions": {
     "project": "./tsconfig.json",
     "ecmaFeatures": {
@@ -8,11 +13,12 @@
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
-  "plugins": ["prettier"],
+  "plugins": ["prettier"], //* "prettier" plugin should be last in order, In case if you are adding any other plugins
   "rules": {
     "react/react-in-jsx-scope": ["off"],
     "react/jsx-uses-react": ["off"],
-    "react/jsx-props-no-spreading": ["warn"],
+    "@typescript-eslint/no-unused-vars": "warn",
+    "import/no-extraneous-dependencies": "warn",
     "@next/next/no-img-element": 0,
     "no-await-in-loop": 0,
     "no-undef": 0,
