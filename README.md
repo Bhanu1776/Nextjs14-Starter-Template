@@ -23,15 +23,17 @@
 
 ## Try it now 💫
 
-### GitHub Template
-
-[Create a repo from this template on GitHub](https://github.com/Bhanu1776/Nextjs13-starter-template/generate).
-
 ### Clone to local
 
 ```bash
-
+  npx @bhanu1776/nextjs-starter my-app
 ```
+
+ Make sure to replace **my-app** with your desired name
+
+### GitHub Template <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height=20 width=20 />
+
+[Create a repo from this template on GitHub](https://github.com/Bhanu1776/Nextjs13-starter-template/generate).
 
 ## Checklist ✅
 
