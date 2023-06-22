@@ -19,7 +19,7 @@
 - 🗂 [cz-commit](https://cz-git.qbb.sh/) - Git commit CLI with custom config
 - 🚀 [PWA](https://web.dev/progressive-web-apps/) - Native app experience
 - 💣 [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager
-- ☁️ Deploy on [Vercel](https://vercel.com/), zero-config with inbuilt analytics support
+- ☁️ Deploy on [Vercel](https://vercel.com/), One click to deploy, Inbuilt Analytics support
 
 ## Try it now 💫
 
@@ -55,7 +55,8 @@ Then visit <http://localhost:3000>
 
 ## Deploy on Vercel ☁️
 
-Your app will be live in a minute if you visit [Vercel](https://vercel.com/), choose your repository, and then continue by clicking Deploy.
+This template comes with vercel inbuilt. Your app will be live in a minute by typing **`vercel`** in terminal.  
+For more information go through [Vercel CLI](https://vercel.com/docs/cli).
 
 ## Why ⁉️
 
