@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-<a href="https://bhanuportfolio.xyz">Live Demo</a>
+<a href="https://starter-website-sigma.vercel.app/">Live Demo</a>
 </p>
 
 ## Features ✨
@@ -16,9 +16,9 @@
 - 🐶 [Husky](https://typicode.github.io/husky/) - Improves your commits and more woof!
 - 🌚 [Dark Mode](https://tailwindcss.com/docs/dark-mode)
 - 🪢 [CSS Modules](https://github.com/css-modules/css-modules)
-- 🗂 [cz-commit](https://cz-git.qbb.sh/) - Git commit CLI with custom config
+- 🗂 [cz-git](https://cz-git.qbb.sh/) - Git commit CLI with custom config
 - 🚀 [PWA](https://web.dev/progressive-web-apps/) - Native app experience
-- 💣 [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager
+- 💣 [pnpm](https://pnpm.io/ "Make sure to install pnpm globally before installing this template => npm i -g pnpm") - Fast, disk space efficient package manager
 - ☁️ Deploy on [Vercel](https://vercel.com/), One click to deploy, Inbuilt Analytics support
 
 ## Try it now 💫
@@ -26,7 +26,7 @@
 ### Clone to local
 
 ```bash
-  npx @bhanu1776/nextjs-starter my-app
+  npx @bhanu17/nextjs-starter my-app
 ```
 
  Make sure to replace **my-app** with your desired name
@@ -62,7 +62,7 @@ For more information go through [Vercel CLI](https://vercel.com/docs/cli).
 
 Recently, I've made a lot of NextJs webs. And setting up each time from scratch with all configurations is really time consuming.
 
-Therefore, I created this basic template for myself to make creating apps easier, along with some useful tips I've picked up from creating those apps. You are welcome to make changes or even maintain your own forks.
+Therefore, I created this template for myself to make creating apps easier, along with some useful tips I've picked up from creating those apps. You are welcome to make changes or even maintain your own forks.
 
 ## Support Me 🫂
 

@@ -14,7 +14,7 @@ const runCommand = (command) => {
 
 const repoName = process.argv[2];
 const gitCheckoutCommand = `git clone https://github.com/Bhanu1776/Nextjs13-Starter-Template.git ${repoName}`;
-const installDepsCommand = `cd ${repoName} && pnpm install && rm -rf bin && rm .npmrc`;
+const installDepsCommand = `cd ${repoName} && rm -rf bin .github && rm .npmrc CHANGELOG.md && pnpm install `;
 
 console.log(`Init project '${repoName}' ✨`);
 const checkedOut = runCommand(gitCheckoutCommand);
@@ -27,6 +27,7 @@ if (!installDeps) process.exit(-1);
 console.log(
   'SaxX! You are ready. Follow the following commands to start 🚀'
 );
+console.log('');
 console.log(`Make sure you follow below steps to start fresh:`);
 console.log(`- Rename 'name' and 'author' fields in package.json`);
 console.log(`- Change the author name in "LICENSE"`);

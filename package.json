@@ -1,6 +1,6 @@
 {
   "name": "@bhanu1776/nextjs-starter",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "bhanu1776",
   "license": "MIT",
   "bin": "./bin/cli.js",
@@ -10,7 +10,7 @@
     "start": "next start",
     "lint": "next lint",
     "commit": "cz",
-    "prepare": "husky install"
+    "prepare": "npx husky install"
   },
   "dependencies": {
     "@types/node": "20.3.1",
