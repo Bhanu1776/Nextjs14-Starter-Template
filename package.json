@@ -1,6 +1,6 @@
 {
-  "name": "@bhanu1776/nextjs-starter",
-  "version": "1.0.0",
+  "name": "@bhanu17/nextjs-starter",
+  "version": "1.1.0",
   "author": "bhanu1776",
   "license": "MIT",
   "bin": "./bin/cli.js",
@@ -10,38 +10,38 @@
     "start": "next start",
     "lint": "next lint",
     "commit": "cz",
-    "prepare": "npx husky install"
+    "prepare": "husky install"
   },
   "dependencies": {
-    "@types/node": "20.3.1",
-    "@types/react": "18.2.13",
-    "@types/react-dom": "18.2.6",
+    "@types/node": "20.4.2",
+    "@types/react": "18.2.15",
+    "@types/react-dom": "18.2.7",
     "@vercel/analytics": "^1.0.1",
     "autoprefixer": "10.4.14",
-    "eslint": "8.43.0",
-    "eslint-config-next": "13.4.7",
-    "next": "13.4.7",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.10",
+    "next": "13.4.10",
     "next-pwa": "^5.6.0",
-    "postcss": "8.4.24",
+    "postcss": "8.4.26",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tailwindcss": "3.3.2",
+    "tailwindcss": "3.3.3",
     "tailwindcss-debug-screens": "^2.2.1",
-    "typescript": "5.1.3",
-    "vercel": "^30.2.3"
+    "typescript": "5.1.6",
+    "vercel": "^31.0.3"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.60.0",
-    "@typescript-eslint/parser": "^5.60.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
     "classnames": "^2.3.2",
-    "cz-git": "^1.6.1",
+    "cz-git": "^1.7.0",
     "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-airbnb-typescript": "^17.0.0",
+    "eslint-config-airbnb-typescript": "^17.1.0",
     "eslint-config-prettier": "^8.8.0",
-    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-prettier": "^5.0.0",
     "husky": "^8.0.3",
-    "prettier": "^2.8.8",
-    "prettier-plugin-tailwindcss": "^0.3.0"
+    "prettier": "^3.0.0",
+    "prettier-plugin-tailwindcss": "^0.4.1"
   },
   "config": {
     "commitizen": {
@@ -54,9 +54,9 @@
     "url": "git+https://github.com/Bhanu1776/Nextjs13-Starter-Template"
   },
   "publishConfig": {
-    "@bhanu1776:registry": "https://npm.pkg.github.com"
+    "@bhanu17:registry": "https://registry.npmjs.org/"
   },
-  "homepage": "https://github.com/Bhanu1776/Nextjs13-Starter-Template#readme",
+  "homepage": "https://starter-website-sigma.vercel.app/",
   "keywords": [
     "react",
     "next",
@@ -70,6 +70,7 @@
     "prettier",
     "husky",
     "cz-git",
+    "PWA",
     "pnpm"
   ]
 }
