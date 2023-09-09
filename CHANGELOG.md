@@ -1,5 +1,15 @@
 # Change Log
 
+> _SEPTEMBER 09, 2023_
+
+- Version 1.2.1
+- Minor Fix
+
+> _SEPTEMBER 09, 2023_
+
+- Version 1.2.0
+- Updated to latest Next.js 13.4.19 stable release
+
 > _JUNE 16, 2023_
 
 - Version 1.1.0

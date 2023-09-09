@@ -1,6 +1,6 @@
 {
   "name": "@bhanu1776/nextjs-starter",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "bhanu1776",
   "license": "MIT",
   "bin": "./bin/cli.js",

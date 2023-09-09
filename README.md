@@ -1,3 +1,5 @@
+<!-- # Next.js 13 Starter Template -->
+
 <p align='center'>
   <img src='https://i.imgur.com/eMlXVoZ.gif' alt='Next.js 13 Starter Template'/>
 </p>
