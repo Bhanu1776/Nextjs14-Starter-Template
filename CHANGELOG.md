@@ -1,5 +1,11 @@
 # Change Log
 
+> _SEPTEMBER 20, 2023_
+
+- Version 1.3.0
+- Bundled with Nextjs 13.5
+- Lot of performance improvements
+
 > _SEPTEMBER 09, 2023_
 
 - Version 1.2.1
