@@ -1,5 +1,10 @@
 # Change Log
 
+> _OCTOBER 28, 2023_
+
+- Version 2.0.0
+- Bundled with latest Next.js 14
+
 > _SEPTEMBER 20, 2023_
 
 - Version 1.3.0
