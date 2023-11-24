@@ -1,5 +1,10 @@
 # Change Log
 
+> _NOVEMBER 24, 2023_
+
+- Version 2.0.1
+- Fixed Miscellaneous issues
+
 > _OCTOBER 28, 2023_
 
 - Version 2.0.0

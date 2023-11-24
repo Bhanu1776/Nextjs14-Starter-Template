@@ -6,8 +6,8 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'NextJs 13',
-  description: 'Nextjs 13 starter template',
+  title: 'NextJs 14',
+  description: 'Nextjs 14 starter template',
 };
 
 export default function RootLayout({
@@ -25,9 +25,9 @@ export default function RootLayout({
         <meta property="og:title" content="Nextjs App" />
         <meta name="twitter:title" content="Nextjs App" />
 
-        <meta name="description" content="Nextjs 13 starter template" />
-        <meta property="og:description" content="Nextjs 13 starter template" />
-        <meta name="twitter:description" content="Nextjs 13 starter template" />
+        <meta name="description" content="Nextjs 14 starter template" />
+        <meta property="og:description" content="Nextjs 14 starter template" />
+        <meta name="twitter:description" content="Nextjs 14 starter template" />
 
         <meta property="og:image" content="https://i.imgur.com/Z3bMJXy.jpg" />
         <meta name="twitter:image" content="https://i.imgur.com/Z3bMJXy.jpg" />

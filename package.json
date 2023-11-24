@@ -1,6 +1,6 @@
 {
   "name": "@bhanu1776/nextjs-starter",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "bhanu1776",
   "license": "MIT",
   "bin": "./bin/cli.js",
@@ -13,26 +13,26 @@
     "prepare": "npx husky install"
   },
   "dependencies": {
-    "@types/node": "20.8.9",
-    "@types/react": "18.2.33",
-    "@types/react-dom": "18.2.14",
+    "@types/node": "20.10.0",
+    "@types/react": "18.2.38",
+    "@types/react-dom": "18.2.17",
     "@vercel/analytics": "^1.1.1",
     "autoprefixer": "10.4.16",
-    "eslint": "8.52.0",
-    "eslint-config-next": "14.0.0",
-    "next": "14.0.0",
+    "eslint": "8.54.0",
+    "eslint-config-next": "14.0.3",
+    "next": "14.0.3",
     "next-pwa": "^5.6.0",
     "postcss": "8.4.31",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwindcss": "3.3.5",
     "tailwindcss-debug-screens": "^2.2.1",
-    "typescript": "5.2.2",
-    "vercel": "^32.5.0"
+    "typescript": "5.3.2",
+    "vercel": "^32.5.6"
   },
   "devDependencies": {
-    "@typescript-eslint/eslint-plugin": "^6.9.0",
-    "@typescript-eslint/parser": "^6.9.0",
+    "@typescript-eslint/eslint-plugin": "^6.12.0",
+    "@typescript-eslint/parser": "^6.12.0",
     "classnames": "^2.3.2",
     "cz-git": "^1.7.1",
     "eslint-config-airbnb": "^19.0.4",
@@ -40,8 +40,8 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^5.0.1",
     "husky": "^8.0.3",
-    "prettier": "^3.0.3",
-    "prettier-plugin-tailwindcss": "^0.5.6"
+    "prettier": "^3.1.0",
+    "prettier-plugin-tailwindcss": "^0.5.7"
   },
   "config": {
     "commitizen": {
@@ -51,7 +51,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bhanu1776/Nextjs13-Starter-Template"
+    "url": "git+https://github.com/Bhanu1776/Nextjs14-Starter-Template"
   },
   "publishConfig": {
     "@bhanu1776:registry": "https://npm.pkg.github.com"

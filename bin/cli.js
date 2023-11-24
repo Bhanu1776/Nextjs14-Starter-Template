@@ -13,8 +13,8 @@ const runCommand = (command) => {
 };
 
 const repoName = process.argv[2];
-const gitCheckoutCommand = `git clone https://github.com/Bhanu1776/Nextjs13-Starter-Template.git ${repoName}`;
-const installDepsCommand = `cd ${repoName} && rm -rf bin .github && rm .npmrc CHANGELOG.md && pnpm install `;
+const gitCheckoutCommand = `git clone https://github.com/Bhanu1776/Nextjs14-Starter-Template.git ${repoName}`;
+const installDepsCommand = `cd ${repoName} && rm -rf bin .github && rm .npmrc CHANGELOG.md && npm install `;
 
 console.log(`Init project '${repoName}' ✨`);
 const checkedOut = runCommand(gitCheckoutCommand);
