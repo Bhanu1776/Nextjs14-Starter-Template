@@ -1,6 +1,11 @@
 # Change Log
 
-> July 17, 2024_
+> July 15, 2024_
+
+- Version 2.2.5
+- Bundled with NextJs 14.2.5
+
+> June 17, 2024_
 
 - Version 2.2.4
 - Bundled with NextJs 14.2.4
