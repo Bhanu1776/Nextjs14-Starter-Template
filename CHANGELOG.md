@@ -1,5 +1,11 @@
 # Change Log
 
+> August 28, 2024_
+
+- Version 2.2.7
+- Hotfix build NextJs
+- Ships with NextJs 14.2.7
+
 > August 24, 2024_
 
 - Version 2.2.6
