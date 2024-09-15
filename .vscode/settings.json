@@ -1,7 +1,7 @@
 {
   //* For eslint-airbnb
   "editor.codeActionsOnSave": {
-    "source.fixAll": true
+    "source.fixAll": "explicit"
   },
   "eslint.validate": ["javascript", "typescript"],
   "editor.formatOnSave": true,
