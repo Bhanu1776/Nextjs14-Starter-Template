@@ -119,10 +119,6 @@ const eslintConfig = [
         },
       ],
       // React Hooks Extra rules
-      "react-hooks-extra/ensure-use-callback-has-non-empty-deps": "warn",
-      "react-hooks-extra/ensure-use-memo-has-non-empty-deps": "warn",
-      "react-hooks-extra/prefer-use-state-lazy-initialization": "warn",
-      "react-hooks-extra/ensure-custom-hooks-using-other-hooks": "warn",
       "react-hooks-extra/no-direct-set-state-in-use-effect": "error",
     },
   },

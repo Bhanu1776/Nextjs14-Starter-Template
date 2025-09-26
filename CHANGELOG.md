@@ -1,5 +1,11 @@
 # CHANGELOG
 
+> Sept 26, 2025
+
+- Version 3.5.4
+- feat: Upgraded to latest Nextjs 15.5.4 and updated related deps
+- feat: Add codehawk, a static analysis tool for JavaScript projects. `pnpm run codehawk`
+
 > Sept 15, 2025
 
 - Version 3.5.3

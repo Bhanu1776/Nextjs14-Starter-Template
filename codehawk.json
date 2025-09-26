@@ -1,0 +1,4 @@
+{
+  "skipDirectories": ["/node_modules", "coverage"],
+  "minimumThreshold": 50
+}
