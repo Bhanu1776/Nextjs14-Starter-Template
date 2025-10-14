@@ -1,3 +1,11 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 @plugin "tailwindcss-debug-screens";
+
+/* Styles to override tailwind excess font weight on the web, ensuring consistent font rendering and smoothing across different browsers. */
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

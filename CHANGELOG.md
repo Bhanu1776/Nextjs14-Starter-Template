@@ -1,5 +1,13 @@
 # CHANGELOG
 
+> Oct 14, 2025
+
+- Version 3.5.5
+- feat: Upgraded to latest Nextjs 15.5.5 and updated related deps
+- feat: Add consistent font rendering and smoothing styles that works across browsers
+- note: To enable turbopack `"dev": "next dev --turbopack"`, add this to the scripts in package.json.
+- note: Next.js 16 is currently in beta; upgrade planned upon stable release.
+
 > Sept 26, 2025
 
 - Version 3.5.4
